@@ -89,7 +89,7 @@ class ChoiceCard extends StatelessWidget {
                     choice.imglink
                 )),
             new Container(
-              padding: const EdgeInsets.all(10.0),
+              padding: const EdgeInsets.all(16.0),
               child:
               Column(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
